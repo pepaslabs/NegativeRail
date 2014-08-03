@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0  Date: 7/7/2014 5:17:13 PM
+#
+$CMP 7805
+D +5V Linear Regulator
+$ENDCMP
+#
+$CMP 7812
+D +12V Linear Regulator
+$ENDCMP
+#
+$CMP 78L05
+D +5V Linear Regulator
+$ENDCMP
+#
+$CMP ICL7660
+D Switched capacitor voltage converter
+$ENDCMP
+#
+$CMP LM317
+D Adjustable Positive Linear Regulator
+$ENDCMP
+#
+$CMP LM337
+D Adjustable Negative Linear Regulator
+$ENDCMP
+#
+#End Doc Library

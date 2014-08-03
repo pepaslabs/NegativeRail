@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0  Date: 3/29/2014 1:14:08 AM
+#
+$CMP INA200
+D INA200 high side current shunt monitor
+$ENDCMP
+#
+#End Doc Library

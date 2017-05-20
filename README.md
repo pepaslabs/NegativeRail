@@ -1,6 +1,6 @@
 # NegativeRail
 
-An ICL7660 based negative rail daughter board.
+An ICL7660-based negative rail daughter board.
 
 ![](releases/v1/media/IMG_1294.JPG)
 

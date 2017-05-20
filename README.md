@@ -25,6 +25,7 @@ Noise with power supply disconnected (i.e., noise floor of measurement system):
 
 ![](releases/v1/media/noise-floor.png)
 
+This indicates that the ~750kHz spikes are not coming from the ICL7660 board (perhaps this is due to the switch-mode power supply inside of the scope?).
 
 # Board design v1
 
